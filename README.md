@@ -242,7 +242,7 @@ OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 97.	Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.<br>
 **Ex: <br>
 escreva('Olá, Mundo!')** <br>
-Saída: <br>
+**Saída:**
 ~~~~~~~~~
  Olá, Mundo! 
 ~~~~~~~~~
