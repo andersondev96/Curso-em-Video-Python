@@ -70,7 +70,7 @@ O número 6.127 tem a parte inteira 6.**
 23.	Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos seus dígitos separados.<br>
 **Ex: <br>
 Digite um número: 1834<br>
-Unidade: 4 dezena: 3 centena: 8 milhar: 1**<br>
+Unidade: 4 <br>dezena: 3 <br>centena: 8 <br>milhar: 1**<br>
 24.	Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome **“SANTO”**.
 25.	Crie um programa que leia o nome de uma pessoa e diga se ela tem **“SILVA”** no nome.
 26.	Faça um programa que leia uma frase pelo teclado e mostre:<br>
@@ -244,7 +244,7 @@ OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 escreva('Olá, Mundo!')** <br>
 Saída: <br>
 ~~~~~~~~~
- Olá, Mundo! <br>
+ Olá, Mundo! 
 ~~~~~~~~~
 98.	Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. Seu programa tem que realizar três contagens através da função criada: <br>
 **a)** de 1 até 10, de 1 em 1 <br>
